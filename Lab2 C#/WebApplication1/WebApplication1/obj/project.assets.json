@@ -10728,11 +10728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Юра\\Desktop\\Programming\\Web API lab2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Юра\\Documents\\GitHub\\Asp.NetC\\Lab2 C#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Юра\\Desktop\\Programming\\Web API lab2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\Юра\\Documents\\GitHub\\Asp.NetC\\Lab2 C#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Юра\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Юра\\Desktop\\Programming\\Web API lab2\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Юра\\Documents\\GitHub\\Asp.NetC\\Lab2 C#\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юра\\AppData\\Roaming\\NuGet\\NuGet.Config",
